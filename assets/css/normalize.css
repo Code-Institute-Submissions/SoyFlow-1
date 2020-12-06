@@ -27,7 +27,7 @@ body {
 /*background image*/
 .background{
   height: 400px;
-  background-image: url("../assets/images/SOYFLOW.jpg");
+  background-image: url("/assets/images/SOYFLOW.jpg");
   background-repeat: no-repeat, repeat;
   background-color: #000000;
 
