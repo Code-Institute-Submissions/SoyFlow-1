@@ -31,7 +31,8 @@ the footer: it has two central columns in the first we will find the designer's 
 * Navbar: has a black background color in hexadecimal (# 000000) with light gray letters. and the font that this navbar uses is the font-family: sans-serif;
 * Background-image: the background image the musical sun symbol, in gold color, with a well-known cartoonnetwork figure as jonny vrabo, this character in white and also legrates them.
 
-* For the columns that have detailed information, we leave a white background with black letters since most of the users feel comfortable when reading; keeping the same font the font-family: sans-serif;
+* For the columns that have detailed information, we leave a white background with black letters since most of the users feel comfortable when reading; keeping the same font the font-family: sans-serif, font-family: monospace, monospace;
+
 
 ## Language Used
 
@@ -84,7 +85,7 @@ Afther my web is ready I make a git push origin master. to save in github reposi
 
 ## Test
 [validator](https://validator.w3.org/): visite esta plataforma y en la pestaña validate_by_upload, subi cada archivo html que pose esta web y le di clic en un cheque; he colocado una captura de pantalla de la prueba que le realizó una web.
-![ScreenShot](/SoyFlow/assets/images/readme.PNG)
+![ScreenShot](/readmeimg/readme.PNG)
 
 **Normalize.css**
 <p>
