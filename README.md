@@ -77,7 +77,8 @@ Afther my web is ready I make a git push origin master. to save in github reposi
 
 **Favicon**
 - It is a small icon (usually 16 × 16 pixels to 32 × 32px) in the dimension of a perfect square. that we use it to identify our website in the tabs of a browser, in a list of favorites, or in any other part that requires a small identification.
-    * <link rel="icon" type="image/png" href="/SoyFlow/assets/images/favicon.png"> also placed in the head of the html code.
+    * <link rel="icon" type="image/png" href="/SoyFlow/assets/images/favicon.png"> 
+    - Also placed in the head of the html code.
 
 **Icon**
 - The icons used on this website are thanks to this platform to use it on our website we place it in the lower part of the body, it is customary to place the javascripts files, the scrip file of this library is
